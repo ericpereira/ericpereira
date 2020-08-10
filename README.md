@@ -13,6 +13,7 @@
   <img align="left" alt="Eric's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
+<br>
 <p>
 Hi! I'm Eric 👨🏻‍💻, a brazilian student of master degree in modeling computing and computer scientist! I'm really like programming, learning new things and solve problems!<br>
 Be welcome!  
