@@ -45,9 +45,3 @@ Be welcome!
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
 </p>
-
-<a href="https://github.com/ericpereira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericpereira&hide=java" />
-</a>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ericpereira&count_private=true)
