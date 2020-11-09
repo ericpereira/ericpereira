@@ -22,10 +22,7 @@ Be welcome!
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m currently working on problem of Multiple Sclerosis with python and artificial intelligence, most specific with convolutional neural networks and machine learning tecniches.
 - 🌱 I’m currently learning TypeScripts and React Native.
-- 🤔 My research interests are with applied unsupervised learning for identification and probably segmentation of disease.
 - 💼 I'm bachelor degree in computer science from brazilian federal university UFES (Universidade Federal do Espírito Santo).
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via eric.pereira@hotmail.com to reach me.
