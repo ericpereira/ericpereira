@@ -15,7 +15,7 @@
 <br>
 <br>
 <p>
-Hi! I'm Eric 👨🏻‍💻, a brazilian student of master degree in modeling computing and computer scientist! I'm really like programming, learning new things and solve problems!<br>
+Hi! I'm Eric 👨🏻‍💻, a brazilian computer scientist! I'm really like programming, learning new things and solve problems!<br>
 Be welcome!  
 </p>
 
