@@ -1,47 +1,29 @@
-<h2> Hello world! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+Hello! Eric here, i'm full stack developer and here you will find a little part of piece of my codes and what i'm doing and learning now!
 
-<a href="https://twitter.com/o_eric__">
-  <img align="left" alt="Eric Pereira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+## Major Repositories
+- Graphql API for a task manager system [See the code](https://github.com/ericpereira/every-io-graphql-server)
+- Mines game in react native [See the code](https://github.com/ericpereira/mines-react-native)
+- Login using passport and SAML [See the code](https://github.com/ericpereira/simple-auth-saml)
+- [More repositories](https://github.com/ericpereira?tab=repositories&q=&type=public&language=&sort=)
+
+## Skill set
+- JavaScript, React, Typescript, React Native
+- Node.js, Express
+- RESTful API, JSON, GraphQL
+- MySQL, PostgreSQL, SQL Server, MongoDB, Firebase, SQLite
+- PHP, Laravel, Lumen, Vanilla PHP
+- HTML, CSS
+- Unix
+- AWS, NGINX, Docker
+- Git, GitHub, BitBucket, GitLab, SourceTree, Git Workflows
+- Jira, Trello, GSuite, Slack
+- Agile Methodologies, Scrum, Kanban
+
+
+## Personal Contact
 <a href="https://www.linkedin.com/in/eric-pereira-dev/">
   <img align="left" alt="Eric's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/ericpereira1">
   <img align="left" alt="Eric's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/eric.pereira1/">
-  <img align="left" alt="Eric's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br>
-<br>
-<p>
-Hi! I'm Eric 👨🏻‍💻, a brazilian computer scientist! I'm really like programming, learning new things and solve problems!<br>
-Be welcome!  
-</p>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-
-**Talking about Personal Stuffs:**
-- 🌱 I’m currently learning TypeScripts and React Native.
-- 💼 I'm bachelor degree in computer science from brazilian federal university UFES (Universidade Federal do Espírito Santo).
-- 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via eric.pereira@hotmail.com to reach me.
-
-### - Languages and Tools...
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">  
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  
-  
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
-</p>
