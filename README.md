@@ -1,6 +1,8 @@
 Hello! Eric here, i'm full stack developer and here you will find a little part of piece of my codes and what i'm doing and learning now!
 
 ## Major Repositories
+- CRUD API for a posts control system [See the code](https://github.com/ericpereira/posts-nodejs-api)
+- Front end using React JS to consume the posts control system API [See the code](https://github.com/ericpereira/posts-react-app)
 - Graphql API for a task manager system [See the code](https://github.com/ericpereira/every-io-graphql-server)
 - Mines game in react native [See the code](https://github.com/ericpereira/mines-react-native)
 - Login using passport and SAML [See the code](https://github.com/ericpereira/simple-auth-saml)
